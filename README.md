@@ -1,6 +1,6 @@
 # Portfólio - AI Product Manager (Cibersegurança & Engenharia de Dados)
 
-Olá! Sou [Seu Nome], AI Product Manager apaixonada por transformar desafios técnicos em soluções de produto com impacto real em segurança da informação e engenharia de dados.
+Olá! Sou Alessandra Nascimento, especialista em tecnologia da informação apaixonada por transformar desafios técnicos em soluções de produto com impacto real em segurança da informação e engenharia de dados.
 
 Neste portfólio você encontra projetos que unem:
 - Estratégia de produto orientada a dados
