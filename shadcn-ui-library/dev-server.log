@@ -3,23 +3,13 @@ nohup: ignoring input
 > shadcn-ui-library@0.1.0 dev
 > next dev --turbopack
 
+ ⚠ Port 3000 is in use by an unknown process, using available port 3001 instead.
    ▲ Next.js 15.4.2 (Turbopack)
-   - Local:        http://localhost:3000
-   - Network:      http://172.30.0.2:3000
+   - Local:        http://localhost:3001
+   - Network:      http://172.30.0.2:3001
 
  ✓ Starting...
- ✓ Ready in 871ms
+ ✓ Ready in 809ms
  ○ Compiling / ...
-Error: Cannot apply unknown utility class `bg-background`
-    [2m[at onInvalidCandidate (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:18:1509)][0m
-    [2m[at ge (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:13:29803)][0m
-    [2m[at /workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:18:373][0m
-    [2m[at I (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:3:1656)][0m
-    [2m[at je (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:18:172)][0m
-    [2m[at bi (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:35:780)][0m
-    [2m[at async yi (/workspace/shadcn-ui-library/node_modules/tailwindcss/dist/lib.js:35:1123)][0m
-    [2m[at async _r (/workspace/shadcn-ui-library/node_modules/@tailwindcss/node/dist/index.js:10:3384)][0m
-    [2m[at async p (/workspace/shadcn-ui-library/node_modules/@tailwindcss/postcss/dist/index.js:10:4019)][0m
-    [2m[at async Object.Once (/workspace/shadcn-ui-library/node_modules/@tailwindcss/postcss/dist/index.js:10:4290)][0m
- ✓ Compiled / in 2.4s
- GET / 200 in 2688ms
+ ✓ Compiled / in 2.3s
+ GET / 200 in 2624ms
