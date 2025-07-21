@@ -1,15 +1,14 @@
 nohup: ignoring input
 
 > shadcn-ui-library@0.1.0 dev
-> next dev --turbopack
+> next dev --turbopack --hostname 0.0.0.0 --port 3002
 
- ⚠ Port 3000 is in use by an unknown process, using available port 3001 instead.
    ▲ Next.js 15.4.2 (Turbopack)
-   - Local:        http://localhost:3001
-   - Network:      http://172.30.0.2:3001
+   - Local:        http://localhost:3002
+   - Network:      http://0.0.0.0:3002
 
  ✓ Starting...
- ✓ Ready in 809ms
+ ✓ Ready in 854ms
  ○ Compiling / ...
- ✓ Compiled / in 2.3s
- GET / 200 in 2624ms
+ ✓ Compiled / in 2.4s
+ HEAD / 200 in 2688ms
